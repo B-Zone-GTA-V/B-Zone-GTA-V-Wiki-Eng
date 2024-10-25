@@ -2,17 +2,7 @@
 outline: deep
 ---
 
-## Tatuaje / Tattoo
-
-### <span style="color: #0088CC">Română</span>
-
-Magazinul de tatuaje este locul în care vă puteți personaliza caracterul chiar mai mult. În prezent avem un număr total de 5 astfel de magazine.
-
-Tatuajele au diferite zone unde pot să fie amplasate precum: cap, corp, mâini și picioare. Tatuajele sunt considerate un "moft" pe server, prin urmare prețul acestora este mai ridicat față de alte modalități de a-ți personaliza caracterul. 
-
-De menționat este faptul că tatuajele pot să fie scoase individual după dorințele voastre, însă prețul de scoatere a unui tatuaj este mult mai mare față de prețul de a-l achiziționa.
-
-### <span style="color: #0088CC">English</span>
+## Tattoo
 
 The tattoo shop is the place where you can customize your character even more. Currently, we have a total of 5 such shops. 
 
@@ -27,5 +17,6 @@ It's worth noting that tattoos can be removed individually according to your pre
 |Hand|$ = 4.800|
 |Leg|$ = 5.000|
 
-<p align="center"><img src="https://i.imgur.com/zbba5Fd.gif"/></p>
-<p style="text-align: center">Tattoo shop</p>
+::: details Tattoo Shop Interface
+  <img src="https://i.imgur.com/zbba5Fd.gif"/>
+:::

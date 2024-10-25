@@ -4,52 +4,6 @@ outline: deep
 
 ## McBeeDelivery
 
-### <span style="color: #0088CC">Română</span>
-
-<table>
-    <tr>
-        <td>Întrebare</td>
-        <td>Răspuns</td>
-    </tr>
-    <tr>
-        <td>De cate ore am nevoie?</td>
-        <td>De minim 25 ore.</td>
-    </tr>
-    <tr>
-        <td>Necesită iteme specifice?</td>
-        <td>Nu.</td>
-    </tr>
-    <tr>
-        <td>Necesită vehicul personal?</td>
-        <td>Nu, il primesti de la angajator</td>
-    </tr>
-    <tr>
-        <td>Necesită permis de conducere?</td>
-        <td>Da.</td>
-    </tr>
-    <tr>
-        <td>Necesită un atestat de la primarie?</td>
-        <td>Nu.</td>
-    </tr>
-    <tr>
-        <td>Permite lucrul in echipa?</td>
-        <td>Nu.</td>
-    </tr>
-</table>
-
-Pentru a putea lucra ca <span class="button-p-job">Livrator</span> trebuie să vă îndreptați la zona de angajare din Los Santos.
-<br>-> Puteți folosi telefonul <span class="button-p-job">Apăsați pe L -> GPS -> Joburi -> McBeeDelivery</span>.
-<br>Puteți deveni <span class="button-p-job">Livrator</span>  în funcție de experiența dumneavoastră.
-<br>Scopul livratorului este acela de a prepara un număr de burgeri <span class="button-r-job">Maxim 6</span>, urmând ca mai apoi să îi livreze la locațiile marcate pe <span class="button-p-job">GPS</span>. De menționat este că locațiile de livrare sunt adesea diferite.
-
-Prepararea burgerilor este bazată pe un memory game, de fiecare dată o să aveți o rețetă de preparare diferită. Dacă alegeți un ingredient greșit, puteți oricând să vă întoarceți la masa de lucru pentru a vedea rețeta iar. Ingredientele alese corect sunt afișate diferit în interfața care afișează rețeta burgerului. 
-
-#### <span class="button-p-job"><b>Important</b></span>
-
-- Dacă nu conduceti scuterul timp de <span class="button-r-job">15 minute</span>, tura de job se încheie, iar scuterul este despawnat datorită inactivității. 
-
-### <span style="color: #0088CC">English</span>
-
 <table>
     <tr>
         <td>Question</td>
@@ -92,5 +46,6 @@ Preparing the burgers is based on a memory game; each time you will have a diffe
 
 - If you do not ride the scooter for <span class="button-r-job">15 minutes</span>, your shift will end, and the scooter will despawn due to inactivity.
 
-<p align="center"><img src="https://i.imgur.com/UDiJlxm.gif"/></p>
-<p style="text-align: center">MCBeeDelivery system</p>
+::: details McBeeDelivery functionality
+  <img src="https://i.imgur.com/UDiJlxm.gif"/>
+:::

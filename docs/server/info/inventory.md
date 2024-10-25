@@ -2,20 +2,7 @@
 outline: deep
 ---
 
-## Inventar și rucsac / Inventory & Backpack
-
-### <span style="color: #0088CC">Română</span>
-
-Inventarul este elementul de bază al serverului nostru. În inventar vă puteți depozita mâncarea, piesele de vestimentație, obiectele dobândite de la locurile de muncă și nu numai. 
-
-Inventarul vine cu o capacitate de 5 kilograme, putând să fie urcat la 45 kg prin echiparea unui ghiozdan. Cu inventarul deschis, puteți vedea obiectele aruncate în vecinătate, dar și să aruncați obiecte în vecinătate (pe jos). 
-
-Obiectele din vecinătate pot să fie ridicate de către orice jucător ce se află în vecinătatea voastră.
-Capacitatea inventarului NU se poate crește dacă jucătorul face sală; acest concept NU este adoptat pe serverul nostru.
- 
-De notat este că toate obiectele din inventar sunt șterse atunci când jucătorul își acceptă moartea, cât și banii din mână (cei afișați când aveți inventarul deschis). Singurele obiecte care NU se șterg din inventar sunt cele echipate (piesele de vestimentație), cu excepția armelor echipate.
-
-### <span style="color: #0088CC">Engleza</span>
+## Inventory
 
 The inventory is the basic element of our server. In the inventory, you can store food, clothing items, objects obtained from jobs, and more. 
 
@@ -26,6 +13,6 @@ The inventory capacity cannot be increased if the player works out; this concept
 
 It is worth noting that all items in the inventory are deleted when the player accepts their death, as well as the money in hand (displayed when the inventory is open). The only items that do NOT get deleted from the inventory are the equipped ones (clothing items), except for equipped weapons.
 
-
-<p align="center"><img src="https://i.imgur.com/pAYxWjW.gif"/></p>
-<p style="text-align: center">inventory system & interface</p>
+::: details Inventory
+  <img src="https://i.imgur.com/pAYxWjW.gif"/>
+:::
