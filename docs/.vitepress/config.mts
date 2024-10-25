@@ -16,6 +16,7 @@ export default defineConfig({
         items: [
           { text: 'UCP', link: 'https://v.b-zone.ro' },
           { text: 'RAGEMP', link: 'https://rage.mp' },
+          { text: 'WIKI RO', link: 'https://b-zone-gta-v.github.io/B-Zone-GTA-V-Wiki/' },
         ]
       },
     ],
