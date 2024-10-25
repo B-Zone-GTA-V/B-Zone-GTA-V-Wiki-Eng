@@ -57,19 +57,19 @@ export default defineConfig({
           { text: 'Search in trash bins', link: '/server/info/trashsearch' },
           { text: 'Phone', link: '/server/info/phone' },
           { text: 'Books', link: '/server/info/books' },
-          { text: 'Gym / Sală', link: '/server/info/gym' },
+          { text: 'Gym', link: '/server/info/gym' },
         ]
       },
       {
-        text: '✒️ Locuri de munca / Jobs',
+        text: '✒️ Jobs',
         items: [
           { text: '📝 Job Applications', link: '/server/jobs/applications' },
-          { text: '♻️ Gunoier / Garbageman', link: '/server/jobs/garbageman' },
+          { text: '♻️ Garbageman', link: '/server/jobs/garbageman' },
           { text: '⛏️ Miner', link: '/server/jobs/miner' },
           { text: '🛵 McBeeDelivery', link: '/server/jobs/mcbee' },
           { text: '👷‍♂️ Electrician', link: '/server/jobs/electrician' },
           { text: '🚛 Trucker', link: '/server/jobs/trucker' },
-          { text: '🚌 Șofer De Autobuz / Bus Driver', link: '/server/jobs/bus_driver' },
+          { text: '🚌 Bus Driver', link: '/server/jobs/bus_driver' },
           { text: '🚚 GoPostal', link: '/server/jobs/gopostal' },
         ]
       },

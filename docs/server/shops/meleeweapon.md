@@ -2,17 +2,7 @@
 outline: deep
 ---
 
-## Magazinul de Arme albe / White Weapons Shop
-
-### <span style="color: #0088CC">Română</span>
-
-Magazinele de arme sunt acele magazine de unde jucătorul își poate achiziționa o gamă variată de arme albe pentru auto-apărare sau pentru a jefui alți jucători, după cum urmează:
-
-Legendă: G = greutate | $ = prețul
-
-De reținut este faptul că armele albe dispar din inventar atunci când jucătorul decide să-și accepte moartea și să se re-spawneze la spital.
-
-### <span style="color: #0088CC">English</span>
+## White Weapons Shop
 
 Weapon stores are those establishments where players can purchase a variety of melee weapons for self-defense or to rob other players, as follows:
 
@@ -30,5 +20,6 @@ It is important to note that melee weapons disappear from the inventory when the
 |Switchblade|G = 0.3kg \| \$ = 15.000$|
 |Machette|G = 1kg \| \$ = 10.000$|
 
-<p align="center"><img src="https://i.imgur.com/GCSmCjn.gif"/></p>
-<p style="text-align: center">White Weapon Shop</p>
+::: details White Weapon Shop Interface
+  <img src="https://i.imgur.com/GCSmCjn.gif"/>
+:::

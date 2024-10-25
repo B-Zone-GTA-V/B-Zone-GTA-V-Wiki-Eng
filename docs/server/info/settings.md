@@ -2,29 +2,7 @@
 outline: deep
 ---
 
-## Setări și taste rapide / Settings & Hotkeys
-
-### <span style="color: #0088CC">Română</span>
-
-Comunitatea B-Zone vine cu setări predefinite pentru majoritatea acțiunilor de pe server, dar și cu posibilitatea de a schimba setările, cât și elemente din HUD după bunul plac al fiecăruia.
-
- Elemente din HUD ce pot fi modificate:
-
-- Oprirea tuturor elementelor din HUD pentru o experiență cât mai bună
-- Ajustarea blip-urilor (mărimea acestora poate să fie mai mare sau mai mică)
-- Oprirea întregului afișaj al chat-ului 
-- Oprirea sfaturilor
-- Dimensiunea fontului și Opacitatea chat-ului 
-- Poziționarea vitezometrului oriunde pe ecran
-
-Alte elemente ce pot fi ajustate din joc în timp real: 
-- Limba jocului 
-- Reîmprospătarea microfonului și multe altele. 
-Pe server există opțiunea de a afișa un compass, care ajută la oferirea detaliilor despre strada pe care vă aflați, folosind comanda [/compass] în chat.
-
-Fiecare tastă rapidă poate să fie schimbată prin accesarea comenzii [/settings] în chat, urmând să selecteze categoria "Taste".
-
-### <span style="color: #0088CC">English</span>
+## Settings & Hotkeys
 
 The B-Zone community comes with predefined settings for most actions on the server, as well as the ability to customize settings and elements in the HUD to suit individual preferences.
 
@@ -49,21 +27,22 @@ Each hotkey can be changed by accessing the command [/settings] in the chat, and
 
 | Tasta/key | Description |
 | :---: | --- |
-| 2 | Pornește motorul / Start the engine |
-| J | Centură / Seatbelt |
-| B | Arată cu degetul / Point with your finger |
-| K | Meniu interacțiuni / Interaction Menu |
-| X | Ridicare mâini / Handsup |
-| I | Inventar / Inventory |
-| HOME | Afișare ID OOC / Display OOC ID |
-| L | Telefon / Phone |
+| 2 | Start the engine |
+| J | Seatbelt |
+| B | Point with your finger |
+| K | Interaction Menu |
+| X | Handsup |
+| I | Inventory |
+| HOME | Display OOC ID |
+| L | Phone |
 | ` | Cursor  |
 | N | Voice chat |
-| F3 | Închidere/deschidere rapidă a vehiculului /<br> Quick vehicle toggle (lock/unlock)|
-| F4 | Schimbare volum microfon /<br> Change microphone volume|
-| T | Deschide chat / Open Chat |
-| CAPS | Stație / Station|
-| F8 | Captură de ecran / Screenshot|
+| F3 | Quick vehicle toggle (lock/unlock)|
+| F4 | Change microphone volume|
+| T | Open Chat |
+| CAPS | Station|
+| F8 | Screenshot|
 
-<p align="center"><img src="https://i.imgur.com/rRN9Vn1.gif"/></p>
-<p style="text-align: center">Settings</p>
+::: details Settings
+  <img src="https://i.imgur.com/rRN9Vn1.gif"/>
+:::
